@@ -1,0 +1,86 @@
+// // colors
+$color-primary: #41EBD5;
+$color-secondary: #33469C;
+$color-light: #FAFAFA;
+$color-dark: #2D2D30;
+$color-xdark: #171719;
+
+
+// $color-primary: #AACF38;
+// $color-secondary: #232323;
+// $color-tertiary: #1FB6FF;
+
+$black: #0c0f0a;
+$pink: #ff206e;
+$green: #fbff12;
+$teal: #41ead4;
+$white: #ffffff;
+
+
+// // fonts
+$base-font-serif: 'Merriweather', serif;
+$base-font-sans-serif: 'Lato', sans-serif;
+
+// body {
+//   font-size: 100%;
+// }
+// // scale 1 - 16px
+// 16 * 1 = 16
+// 16 * 2 = 32
+// 32 * 2 = 64
+// 64 * 2 = 128
+// 128 * 2 = 256
+
+// 16 / 2 = 8
+// 8 / 2 = 4
+// 4 / 2 = 2
+
+// h1 { font-size: 256px }
+// h2 { font-size: 128px }
+// h3 { font-size: 64px }
+// h4 { font-size: 32px }
+
+// p { font-size: 16px }
+
+// small { font-size: 8px }
+
+// // sclae 2 - 95px
+// 11.875 / 2 = 5.938
+// 23.75 / 2 = 11.875
+// 47.5 / 2 = 23.75
+// 95 / 2 = 47.5
+// 95 * 1 = 95
+// 95 * 2 = 190
+// 190 * 2 = 380
+// 380 * 2 = 760
+
+// // two scales together
+// 760.000
+// 512.000
+// 380.000
+// 256.000
+// 190.000
+// 128.000
+// 95.000
+// 64.000
+// 47.500
+// 32.000
+// 23.750
+// 16.000
+// 11.875
+// 8.000
+// 5.938
+// 4.000
+// 2.969
+// 2.000
+// 1.485
+
+// scale
+h1 { font-size: 64px }
+h2 { font-size: 47.5px }
+h3 { font-size: 32px }
+h4 { font-size: 23.75px }
+
+p { font-size: 16px }
+
+small { font-size: 8px }
